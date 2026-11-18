@@ -1,0 +1,6 @@
+{
+  "name": "Xenoresonance: Ignis Sector",
+  "description": "A 32-bit HD-2D JRPG vertical slice inspired by Xenogears, featuring a rotatable 3D pixel-art world, dual-layer On-Foot AP Deathblow and Gear Mecha Fuel combat, and a procedural PS1 SPU Web Audio synthesizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
